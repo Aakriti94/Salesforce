@@ -28,7 +28,7 @@ Select any record to drill into a specific account, contact, opportunity, or any
 | Leads      | Leads are potential prospects. You haven’t yet qualified that they are ready to buy or what product they need. You don’t have to use Leads, but they can be helpful if you have team selling, or if you have different sales processes for prospects and qualified buyers.       |
 | Opportunities   | Opportunities are qualified leads that you’ve converted. When you convert the Lead, you create an Account and Contact along with the Opportunity.         |
 
-Q: When converting a lead, the following three records are created:
+Q: When converting a lead, the following three records are created? <br>
 A: Contact, opportunity, and account. 
 
 > Trailhead Link: https://trailhead.salesforce.com/content/learn/modules/lex_salesforce_basics/lex_salesforce_basics_welcome  
